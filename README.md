@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Galtieri et al., "Pedunculopontine glutamatergic neurons control spike patterning in substantia nigra dopaminergic neurons". eLife, 2017. http://dx.doi.org/10.7554/eLife.30352
+
+
 # Neurphys
 
 Neurphys (pronounced "nervous") is an IO and analysis package built to streamline and standardize the data handling, analysis, and visualization of electrophysiology and calcium imaging data.
